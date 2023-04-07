@@ -30,5 +30,6 @@ To use the project, follow these steps:
 ## Technologies used
 -Python (Pygame)
 
-## Screen shots of the game
+## Quick live Demo
+Here is the link of the video that shows how the game works: https://youtu.be/A8AyLKDxa8g
 
